@@ -1,9 +1,9 @@
 <script>
-
+  
 </script>
 
 <section>
-  Home
+  Seccion de Home
 </section>
 
 <style>
